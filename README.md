@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
@@ -42,3 +43,7 @@ or
 For more information about using Python on Heroku, see these Dev Center articles:
 
 - [Python on Heroku](https://devcenter.heroku.com/categories/python)
+=======
+# heroku_google_home
+This is google home device talking to a Arduino to perform Home automation.
+>>>>>>> f6da3877fc00e108b276333ca8a2a14ab7709efd
